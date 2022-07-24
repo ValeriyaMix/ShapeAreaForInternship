@@ -1,0 +1,8 @@
+C:\Users\valer\source\repos\ShapeAreaForInternship\ShapeAreaForInternship\bin\Debug\ShapeAreaForInternship.exe.config
+C:\Users\valer\source\repos\ShapeAreaForInternship\ShapeAreaForInternship\bin\Debug\ShapeAreaForInternship.exe
+C:\Users\valer\source\repos\ShapeAreaForInternship\ShapeAreaForInternship\bin\Debug\ShapeAreaForInternship.pdb
+C:\Users\valer\source\repos\ShapeAreaForInternship\ShapeAreaForInternship\obj\Debug\ShapeAreaForInternship.csproj.AssemblyReference.cache
+C:\Users\valer\source\repos\ShapeAreaForInternship\ShapeAreaForInternship\obj\Debug\ShapeAreaForInternship.csproj.SuggestedBindingRedirects.cache
+C:\Users\valer\source\repos\ShapeAreaForInternship\ShapeAreaForInternship\obj\Debug\ShapeAreaForInternship.csproj.CoreCompileInputs.cache
+C:\Users\valer\source\repos\ShapeAreaForInternship\ShapeAreaForInternship\obj\Debug\ShapeAreaForInternship.exe
+C:\Users\valer\source\repos\ShapeAreaForInternship\ShapeAreaForInternship\obj\Debug\ShapeAreaForInternship.pdb
