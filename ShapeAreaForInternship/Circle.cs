@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ShapeAreaForInternship
 {
-    public class Circle
+    public class Circle: IShape
     {
         public double Radius
         { get; private set; }
