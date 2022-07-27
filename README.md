@@ -12,3 +12,6 @@ Description of the database tables:
 Database contains products and categories. One product can have many categories and any category can contain many products.
 
 The scheme of the tables structures is below.
+
+
+<img src="https://user-images.githubusercontent.com/41394647/181244322-b2d2a654-7c85-417b-9b25-5abed07f04c6.png" width="670" height="400">
