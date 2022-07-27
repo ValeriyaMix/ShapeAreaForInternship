@@ -14,4 +14,4 @@ Database contains products and categories. One product can have many categories 
 The scheme of the tables structures is below.
 
 
-<img src="https://user-images.githubusercontent.com/41394647/181244322-b2d2a654-7c85-417b-9b25-5abed07f04c6.png" width="670" height="400">
+<img src="https://user-images.githubusercontent.com/41394647/181250922-bf2784b2-6295-48cf-974e-cc87f15329d2.png" width="670" height="400">
