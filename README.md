@@ -11,7 +11,7 @@ Description of the database tables:
 
 Database contains products and categories. One product can have many categories and any category can contain many products.
 
-The scheme of the tables structures is below. The query itself is in the file SQLquery1.sql.
+The scheme of the tables structures is below. The query itself is in the file SQLQuery1.sql.
 
 
 <img src="https://user-images.githubusercontent.com/41394647/181250922-bf2784b2-6295-48cf-974e-cc87f15329d2.png" width="670" height="400">
